@@ -1,5 +1,5 @@
 require('dotenv').config();
-const sql = require('../lib/sql');
+import sql from '../lib/sql';
 
 describe('my test, test', () => {
   it('tests everything else', () => {
