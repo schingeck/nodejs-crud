@@ -1,4 +1,3 @@
-// @ts-ignore
 import { Sequelize } from 'sequelize-typescript';
 
 const sql = new Sequelize({
